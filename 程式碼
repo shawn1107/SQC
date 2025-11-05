@@ -35,7 +35,6 @@ sim_R1orR2 <- function(n, reps = 10000){
   }
   cnt / reps
 }
-
 # 要評估的 n
 ns <- c(1, 5, 10, 20, 50, 100)
 
